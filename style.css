@@ -1,0 +1,59 @@
+body {
+    font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+    background-color: lightgreen;
+    padding: 1%;
+    box-sizing: border-box;
+}
+
+.block {
+    background-color: white;
+    padding: 2%;
+    margin-bottom: 2%;
+    box-sizing: border-box;
+}
+
+.left-column {
+    width: 66%;
+    float: left;
+}
+
+.ruby {
+    width: 32%;
+    float: right;
+}
+
+.c {
+    width: 32%;
+    float: left;
+}
+
+.right-column {
+    width: 66%;
+    float: right;
+}
+
+.javascript {
+    text-align: right;
+}
+
+.prolog {
+    text-align: right;
+}
+
+.python {
+    text-align: right;
+}
+
+.java {
+    text-align: right;
+}
+
+.clear {
+    clear: both;
+}
